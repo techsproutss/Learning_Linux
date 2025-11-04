@@ -1,0 +1,10 @@
+hello world
+This is a sample file for practicing grep commands
+hello everyone
+Welcome to Linux filters tutorial
+ERROR: File not found
+error in processing data
+Hello from the command line
+grep is a powerful search tool
+searching for patterns is easy
+HELLO in uppercase
